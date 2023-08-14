@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1050809262793",
+    "project_id": "decorshop-effb3",
+    "storage_bucket": "decorshop-effb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050809262793:android:e94eb94e9f151f1fdc6318",
+        "android_client_info": {
+          "package_name": "com.example.decorshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050809262793-s2kd6qmoe6tn9loul11ucptdo425472c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsu7UDkBD5FZKRDcyntrFMlvS1D4WalLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050809262793-s2kd6qmoe6tn9loul11ucptdo425472c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
